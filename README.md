@@ -20,7 +20,7 @@ Right click to move your game up or down, delete it, or look at the Steam Databa
 
 Once you have your tab set up the way that you like it, go to that tab, click the "All" box in the lower left (NOT the one in the top section) to select your games (deselect it and choose your individual games if you'd like) and press the "Create Game Page" button in the lower left.  This will create your Game WebPage in the Webpage directory of your SGLoader folder.  The file names will all start with "GamePage_".   Your Favorites Tab will be "GamePage_Custom_1" .
 
-This is going to change, but for now, bring up your new pages with MicroSoft Edge and make them "Favorites" so that you can find them in the Cliffhouse.  If you're not using this for WindowsMR, just double click the files to bring them up in your default browser and then put them into your bookmarks.
+Next, go to the tab containing the games that you want and press the "Open Game Page" button to bring up your new page in MS Edge, assuming that Edge is your default browser.  Set each page into Favorites and organize them as you'd like.  If your default browser is NOT MS Edge, then you will have to do it the hard way.  Microsoft has made it impossible to access local html files by commandline.  You will need to open the folder containing the files (press the "Open Folder" button), right click on the one you want and go thru the "Open with... Microsoft Edge" dialog.  Once you've got it open in Edge, set it as a favorite as described.
 
 Once you click your game in the browser, a window will popup asking you if  you wish to launch the "Steam Client Bootstrapper".  This is your browser asking for permission to launch your game: click "yes" and play!  This will launch your game, SteamVR along with it.  If you experience problems, try bringing up SteamVR first, then clicking the game.  Note that SteamVR will be in your new GamePage as well as your games.
 
@@ -28,8 +28,7 @@ That's all there is to it!  I hope it helps!
 
 
 Known bugs/issues:
-1) Needs to bring up browser to allow favorite/bookmarking.
-2) Information shown in listview columns not accurate.
-3) Steamdb page not showing everything.
-4) "All" button in top section not working right.
-5) Needs Oculus game support.
+1) Information shown in listview columns not accurate.
+2) Steamdb page not showing everything.
+3) "All" button in top section not working right.
+4) Needs Oculus game support.

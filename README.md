@@ -6,7 +6,7 @@ Load your Steam/Game Shortcuts into a Webpage for use in WindowsMR or just to or
 
 Welcome to my Steam Shortcut/Game Loader!
 
-Download the ZIP file, NOT the exe!  The exe is not a standalone file.
+Download SGLoader.ZIP, NOT the exe!  The exe is not a standalone file.
 
 This is a simplified version of CogentRifter's Home Loader, found here:  https://github.com/CogentHub/HomeLoader.   With his permission, I have modified it for my needs.
 

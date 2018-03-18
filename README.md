@@ -32,3 +32,4 @@ Known bugs/issues:
 2) Steamdb page not showing everything.
 3) "All" button in top section not working right.
 4) Needs Oculus game support.
+5) Correct the version number

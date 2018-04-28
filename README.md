@@ -39,7 +39,7 @@ Once you click your game in the browser, a window may popup asking you if  you w
 
 If you're using VRToolbox, you can use the "Create TVCuts Page" to create a page of all of your games.  These links will take you to a page that contains ONLY that game/experience.  Resize the page to only show that single icon, then, using the up/down thumbpad buttons, grow or shrink the icon/page to an appropriate size and link and lock it to an Object such as a picture frame or that little "Jetson's" TV.  Once it's locked, you can grow/shrink the object and the icon/shortcut will resize with it.  Place it where ever you'd like and click it to launch your game!
 
-That's all there is to it!  I hope it helps!
+I hope that you find some use in this little utility.  Let me know if there are any issues!
 
 
 Known bugs/issues:

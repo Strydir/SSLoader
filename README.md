@@ -18,14 +18,14 @@ Note that if you are using WindowsMR, then you will need to be running at least 
 
 At First Start, the program will be using the default Steam installation path.  If you've changed it or added more directories, click on the "Set Steam Folders" button in the upper right.   When you have your Steam Folders set, click the "Scan Steam Library Folders" button to add your games to the Library.
 
-When the scan is complete, you'll have a list of your games.  Check the boxes to select each game,  move to the right, click the "Choose Tab" button and select between the 4 custom tabs.  Click the "Add to Custom" button to add the selected games to that tab.
+When the scan is complete, you'll have a list of your games.  You'll also have all of your 2d games and various Steam tools: right click and delete them from your lists, if you'd like.  Check the boxes to select each game,  move to the right, click the "Choose Tab" button and select between the 4 custom tabs.  Click the "Add to Custom" button to add the selected games to that tab.
 
 Move to that tab and then right click to move your game up or down, delete it, or look at the Steam Database for the game.
 
 
 If you're using VRToolbox, you'll want to set your SteamVR Home to VRToolbox:  this will tell the software to add the extra code that VRToolbox needs.  These pages will not work outside of VRToolbox.
 
-Once you have your tab set up the way that you like it, click the "All" box on the right (NOT the one in the top section) to select your games (deselect it and choose your individual games if you'd like) and press the "Create Game Page" button. 
+Once you have your tab set up the way that you like it, click the "All" box on the right (NOT the one in the top section) to select your games (deselect it and choose your individual games if you'd like) and press the "Create Game Page" button.
 
 
 When you have your pages created, press click the "Create MasterPage" button. You only do this once.  Once it's created, access it by the "Open MasterPage" button in the lower right.  This will give you a page with links to all of your new game pages. It's preset with all of them, so if your link isn't working, then you probably haven't created the page, yet.

@@ -43,7 +43,7 @@ That's all there is to it!  I hope it helps!
 Known bugs/issues:
 1) Progress bars need work: they don't update properly for the scans.
 
-2) In "Add Game" sequence, the icon files don't get copied so your icon will be a "default" icon unless you choose an icon from the default system directory.
+2) In "Add Game" sequence, your icon will be a "default" icon unless you choose an icon from the default system directory.
 
 3)Icons in the list view need to be fixed. Icons on GamePages are fine.
 

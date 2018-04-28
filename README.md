@@ -49,3 +49,9 @@ Known bugs/issues:
 4) Needs Oculus game support.
 5) Only tested on Windows10.
 6) Only tested at 1080i/p and 4k resolutions.
+
+
+---------------------
+
+SKYMAPS for VRToolbox:
+For Skymaps, go to the "Skymaps" folder and download the zip files.  Unzip each file and place the dds files into the VRToolbox "Textures" directory.  They will then be available in game, under the drop down list in the "Settings" window.  If you decide to change the file name, VRToolbox requires the "_360" part of it.

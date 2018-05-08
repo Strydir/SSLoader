@@ -43,7 +43,8 @@ I hope that you find some use in this little utility.  Let me know if there are 
 
 
 Known bugs/issues:
-1)Just found out that Non-Steam Game pages are not writing properly.  Working on it.
+
+1) Just found out that Non-Steam Game pages are not writing properly.  Working on it.
 2) Progress bars need work: they don't update properly for the scans.
 3) In "Add Game" sequence, your icon will be a "default" icon unless you choose an icon from the default system directory.
 4) Icons in the list view need to be fixed. Icons on GamePages are fine.

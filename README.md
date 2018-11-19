@@ -23,9 +23,9 @@ When the scan is complete, you'll have a list of your games.  You'll also have a
 Move to that tab and then right click to move your game up or down, delete it, or look at the Steam Database for the game.
 
 
-If you're using VRToolbox, you'll want to set your SteamVR Home to VRToolbox:  this will tell the software to add the extra code that VRToolbox needs.  These pages will not work outside of VRToolbox.
+Now to generate your web pages.  If you're using VRToolbox, you'll want to set your SteamVR Home to VRToolbox:  this will tell the software to add the extra code that VRToolbox needs.  Keep in mind that these pages will not work outside of VRToolbox.
 
-Once you have your tab set up the way that you like it, click the "All" box on the right (NOT the one in the top section) to select your games (deselect it and choose your individual games if you'd like) and press the "Create Game Page" button.
+Once you have your tab set up the way that you like it, click the "All" box in the upper left to select your games, or choose your individual games, and press the "Create Game Page" button.
 
 
 When you have your pages created, press click the "Create MasterPage" button. You only do this once.  Once it's created, access it by the "Open MasterPage" button in the lower right.  This will give you a page with links to all of your new game pages. It's preset with all of them, so if your link isn't working, then you probably haven't created the page, yet.

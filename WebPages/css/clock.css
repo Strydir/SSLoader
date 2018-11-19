@@ -1,0 +1,65 @@
+﻿body {
+    background-color: rgba(65,0,0,0.4);
+    font-family: Segoe Script, sans-serif;
+	text-shadow:
+		-1px -1px 0 #FF0,
+		1px -1px 0 #FF0,
+		-1px 1px 0 #FF0,
+		1px 1px 0 #FF0;
+    }
+  
+#clockback {
+	background-color: rgba(0,0,0,0.8);
+	border: 3px solid red;
+    }
+  
+h1 {
+	text-align: center;
+	color: white;
+	}
+	
+#today {
+	margin-top: -15px;
+	margin-bottom: -230px;
+	font-size: 1500%;
+	}
+	
+#today1 {
+	margin-top: -15px;
+	margin-bottom: -75px;
+	font-size: 1000%;
+	}
+
+#clock {
+	color: white;
+	display: inline;
+	font-size: 1400%;
+	padding: 10px;
+	text-shadow:
+		-1px -1px 0 #FF0,
+		1px -1px 0 #FF0,
+		-1px 1px 0 #FF0,
+		1px 1px 0 #FF0;
+	}
+	
+#myDate {
+	color: rgba(255,140,0,1.0);
+	font-size: 900%;
+	padding: 10px;
+	margin-bottom: -320px;
+	}
+	
+#myClock {
+	color: #1CD06E;
+	font-size: 1500%;
+	padding: 10px;
+	margin-bottom: -45px;
+	}
+	
+#myCal {
+	background-color: rgba(0,0,0,0.8);
+	border: 3px solid red;
+	font-size: 500%;
+	text-align: center;
+	line-height: 0px;
+	}

@@ -6,9 +6,6 @@ Set your SteamVR Home to VRToolbox, Virtual Desktop or Bigscreen beta (or back).
 
 
 
-Welcome to my Steam Shortcut Loader!
-
-
 
 This is a simplified version of CogentRifter's Home Loader, found here:  https://github.com/CogentHub/HomeLoader.   With his permission, I have modified it for my needs.
 

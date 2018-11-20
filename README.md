@@ -1,7 +1,7 @@
 # Welcome to SSLoader
 Load your Steam Games and Experiences into Webpages for use in WindowsMR, VRToolbox, Oculus(not tested but they should work) or Vive from your Desktop,  or just to organize them. 
 
-Set your SteamVR Home to VRToolbox, Virtual Desktop or Bigscreen beta (or back).
+Set your SteamVR Home to VRToolbox, Virtual Desktop, Bigscreen beta or pick your own!
 
 
 

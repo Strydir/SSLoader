@@ -47,7 +47,7 @@ Known bugs/issues:
 2) Only tested on Windows10.
 3) Only tested at 1080i/p and 4k resolutions.
 4) Working on:
-5) Needs one button restoration of vrmanifest file.
+5) Themes
 6) Ability to add a separator
 7)
 

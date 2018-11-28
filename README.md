@@ -41,15 +41,16 @@ In the "Settings" page, you can use the "Create Singles Page" to create a page o
 I hope that you find some use in this little utility.  Let me know if there are any issues!
 
 
-Known bugs/issues:
-
+--Known bugs/issues:
 1) Until Revive adds multidrive support, only Oculus games in the default directory will be found.
 2) Only tested on Windows10.
 3) Only tested at 1080i/p and 4k resolutions.
-4) Working on:
-5) Themes
-6) Ability to add a separator
-7)
+4) PDF files can crash VRToolbox
+
+-- Working on:
+1) Themes
+2) Ability to add a separator
+
 
 
 ---------------------

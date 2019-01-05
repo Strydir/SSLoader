@@ -62,7 +62,7 @@ I hope that you find some use in this little utility.  Let me know if there are 
 1) Themes
 2) Native Oculus support
 
-If you are just updating the exe file, there are some new bmp files in the 'gfx' folder and the file 'steam.app.--------.bmp' needs to be place in your \icons\32x32 folder.
+If you are just updating the exe file, there are some new bmp files in the 'gfx' folder and the file 'steam.app.--------.bmp' needs to be placed in your \icons\32x32 folder.
 
 
 ---------------------

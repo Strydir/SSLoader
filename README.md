@@ -25,7 +25,7 @@ When the scan is complete, you'll have a list of your games.  You'll also have a
 
 Move to that tab and then right click to move your game up or down, delete the entry, find out how many people are playing that game at the moment or look at the Steam Database for the game.  You can also add a Separator.  If you click that, a dialog will pop up asking you to name your Separator.  Note that sorting the list moves all Separators to either the top or bottom of the list.
 
-You can launch your games from SSLoader, or you can create web pages of your Lists. These use larger icons and are accessible in VR if you are using VRToolbox or WMR.  The webpages will launch everything except exe files, unless you are using VRToolbox.  VRToolcox uses code that allows you to launch non-Steam exe's from your webpages so you can launch 3rd party VR Experiences like Star Trek, Titanic or Blade Runner.  
+You can launch your games from SSLoader, or you can create web pages of your Lists. These use larger icons and are accessible in VR if you are using VRToolbox or WMR.  The webpages will launch everything except exe files, unless you are using VRToolbox.  VRToolbox uses code that allows you to launch non-Steam exe's from your webpages so you can launch 3rd party VR Experiences like Star Trek, Titanic or Blade Runner.  
 
 Now to generate your web pages.  If you're using VRToolbox, you'll want to set your SteamVR Home to VRToolbox:  this will tell the software to add the extra code that VRToolbox needs.  Keep in mind that these pages will not work outside of VRToolbox.
 

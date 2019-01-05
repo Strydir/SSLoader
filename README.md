@@ -47,8 +47,6 @@ You can sort your Lists by Name, AppId or Install Drive.
 
 You can print your Lists by clicking the "Print Page" button.
 
-You can rename 6 of the Tabs by clicking the "Rename Tabs" button.
-
 
 I hope that you find some use in this little utility.  Let me know if there are any issues!
 

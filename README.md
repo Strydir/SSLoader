@@ -56,6 +56,7 @@ I hope that you find some use in this little utility.  Let me know if there are 
 2) Only tested on Windows10.
 3) Only tested at 1080i/p and 4k resolutions.
 4) PDF files can crash VRToolbox
+5) Version number shown is wrong. Has no impact on the program.
 
 -- Working on:
 1) Themes

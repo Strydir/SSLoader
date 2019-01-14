@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Readme</title>
+ 
+<style>
+
+h1  {
+	text-align:center;
+	font-family:Comic Sans MS;
+	text-decoration: underline;
+	text-align: center;
+	}
+body {
+	
+	width: 800px;
+	font-size: 20px;
+	margin: auto;
+	}
+.Top {
+	text-align: center;
+	}
+.Main {
+	text-align: left;
+	}
+.underline {
+	text-decoration: underline;
+	}
+</style>
+
+</head>
+<body>
+<h1>Welcome to the Steam Shortcut Loader</h1>
+<h4 class="Top">This is based on CogentRifter's HomeLoader and wouldn't exist without his work:</br>https://github.com/CogentHub/HomeLoader</h4>
+
+<h3 class="underline">Overview</h3>
+<div class="readme">
+<div>
+Using this utility, you can create lists, printouts, and web pages of shortcuts to your Steam and Revive Games/Experiences, along with whatever
+you want to add from your own files.  Launch them from the Utility or from web pages.  Anything that a Browser can render will show up in your default Browser window, 
+anything else will use the default program associated with the file type. </br></br>
+*VRToolbox includes code that enables you to run exe files from a browser window: you can start Steam or non-Steam games and experiences, including movies and documents, from within VR!</br></br>
+*As far as I know, this is the first time that you can actually print out lists of all of your Steam games!  Organize your lists however you want and then print them!</br>
+<p>If you are running the beta version of SteamVR, this will also allow you to change your SteamVR Home!   
+This means that whatever program you choose will start whenever SteamVR starts 
+and whenever you exit another VR program.  Be careful what you choose or you could spend a lot of time loading or just load into a blank empty space...</p>
+<p>Windows Mixed Reality users (WMR) can test their OS to see if it meets the requirements and, if it does, can write the needed Registry Key (supplied by Microsoft)
+to allow your shortcuts to be launched from an Edge Window in your Cliffhouse.  Including SteamVR itself.</br>
+*Note that MS has plans to include this Key into Windows10, so at some point you won't need to do this.  Try it without writing the key, first.</p>
+</div>
+
+<h3 class="underline">Installation/Removal</h3>
+<div>
+Installation:</br>
+Unzip to your drive or folder of choice and simply run the SSLoader.exe file.  I recommend making a shortcut to the exe and placing it on your desktop.
+</div></br>
+<div>
+Moving:</br>
+All environment variables are set when you run the program the first time; so to move it, set your SteamVR Home back to SteamVR, 
+restore your StartPage for VRToolbox, delete the folder and files and unzip a new version to your new location.  Then make new
+files at the new location.  Note that you will need to re-create your StartPage/MainPage as well.
+</div></br>
+<div>
+Removal:</br> 
+-Make sure that you've set your SteamVR Home back to SteamVR.</br> 
+-If you've changed the StartPage in VRToolbox then go to Settings
+and restore the StartPage file.  You may have to switch your VR Home to VR Toolbox
+to access the restore button. Don't forget to switch it back.</br>
+-Delete your SSloader folder.</br>
+Your "tools.vrmanifest" file has been copied to a file named "tools.vrmanifest.bak" in the same directory.  As long as you have  set your VR Home to 
+SteamVR, then there is no need to restore this.  In fact, due to possible updates to the file from Steam, I don't recommend it.
+But if you'd like to:</br>
+-Go to your ...\Steam\steamapps\common\SteamVR\tools folder and rename the file "tools.vrmanifest.bak" to "tools.vrmanifest"
+</div>
+
+<h3 class="underline">Usage</h3>
+<div class="Main">
+
+	<p>When you run the program for the first time, it will detect your main Steam installation and up to 4 additional Steam installation paths, in case you're added more hard drives.</br>  
+	When it first loads up, you will be looking at a blank window.  Click the "Scan Steam Library Folders" button in the upper right to populate your Steam Loader.  If you have a lot of games, this may take a few minutes.  It will be using your Internet connection to 
+	download information and icon files.</br>
+	If you add or remove directories, go to "Settings" and click the "Set Steam Libraries" button in the upper right.   
+	From here, you can add, remove or reset your Steam Libraries.  When you add a directory, the program will create a Library List of the games in that location.  
+	In order to update the main page that combines all of your Libraries, make sure that you click the "Rescan ALL" button before exiting the window.</p>
+	
+	Next, if you have any Oculus Games that use Revive, you can add them as well.  Switch to the "Revive Apps" tab and click the "Scan Revive Library Folders" button.</br>
+	*Note that until Revive adds support for other drives, it will not pick up any games that you've moved off the default Oculus Home directory.</br></br>
+	When the scans are complete, you will have a list of all of your Steam and Revive Games. </br></br>
+	-------
+	<p>To add your own files, click the "Non-Steam Apps" Tab and then the "Add Games Experiences..." button in the upper right.
+	Use the Dropdown to select your file type and follow the prompts.</br> 
+	Note that you can add individual Steam Games this way. </br>
+	If you are using VR Toolbox, then links to mp4's, urls and any documents that Chrome can render will pop up as its own screen in VR.</br>
+	*Note that pdf files may crash VRToolbox.</p>
+	-------		
+	<p>To add games to your custom Tabs:</p>
+		<ol>
+			<li>Check the boxes on the left to select your games, or click "All" on the top, left side of the page.</li>
+			<li>On the right, click the "Choose Tab" button to select between the 6 custom tabs.</li>  
+			<li>Click the "Add to Custom" button below it to add the selected games to that tab.</li>
+			<li>Select the Tab to see your list.</li>
+			<li>Right click on a game to move it up or down, delete it, launch it, see the number of players currently playing it, 
+			or look at the Steam Database for game information.</li>
+			<li>Right click the list to add a Separator: you will be prompted to name it.
+			<li>Organize your lists by name, appid or drive. Note that Separators will be moved to the top or bottom of the list.
+			
+		</ol>
+	-------
+	<p>To rename your Tabs, click "Rename Tabs" and follow the prompts.</br>
+	Note that you can only rename the last 6 Tabs</p>
+	-------
+	<p>You can add Separators to your list by right clicking.  You will then be asked to input a name and your Separator will be added to the bottom of the list.
+	Use the right click menu to move it up to where you want it.  Keep in mind that sorting the list will move it to the top or bottom again, so a little planning can be very helpful.</p>
+	------
+	<p>You can sort your games by AppId, Name or Drive.  Clicking the button will toggle the list up or down.  
+	All Separators will be moved to the top or bottom of the list and will need to be moved to where you want them.</p>
+	------
+	<p>Once you've got your list set up the way that you want, you can click the "Print Page" button in the lower right.  This will print out the list of games that you are looking at, using your default printer.</p>
+	-------
+	<p>The Dropdown Library list in the upper right gives you the option to sort your list of Steam games by your Steam Libraries:  up to 5 different Library locations.
+	If you seem to be missing games in your main list, make sure that you haven't set this to isolate your viewing selection.</p>
+	-------
+	<p>WindowsMR users:</br>
+	Although MS Edge can launch Steam shortcuts just as well as Chrome on your desktop, Microsoft added security features to VR that disable this ability.  One of the techs was kind enough to provide me with a Registry Key that
+	re-enables this, as part of upcoming new security.  At some point, this should not be needed anymore, so check first.</br>
+	Bring up the "Settings" window.  The program automatically checks your Operating System to see if it's a new enough build to be able to take the needed Registry Key.  If you decide that you want to write the Key, you must restart 
+	this Utility in Administrative mode: close it and then right click on the file ssloader.exe and choose "Run as administrator".  Once in Administrative mode, you'll be able 
+	to actually write the Key.</br>  This only needs to be done once, and, once written, you can restart for normal operation.</br>
+	This Key enables MS Edge to open Steam Games/Experiences in VR. However, unless you make your new pages into "Favorites" in Edge, you'll have to find them the hard way.  Open the "Master/MainPage" file with
+	Edge, <i>before</i> going into VR, and set it.</p>
+	-------
+	<p>Change your SteamVR Home:</br>
+	-You need to be running SteamVR beta.</br>
+	-You can change your SteamVR Home by going into Settings and choosing from the dropdown list.</br>
+	-Make sure that you change it back to "SteamVR" before moving or deleting this program!  Your original SteamVR Manifest file is saved as a backup, but
+	choosing "SteamVR" re-writes the same line. Due to possible Steam updates to this file, I don't actually recommend restoring the backup.</br>
+	-VRToolbox has features that allow more functionality from your Web Pages, but choosing it will write additional code into the Web Pages that makes them unusable outside of VRToolbox. The Utility keeps
+	track of it, but keep this in mind if you are opening the Web Pages manually.</br>
+	-Choosing "Other" will bring up dialog allowing you to choose a Steam Program or your own.  Keep in mind that if you choose a program that takes a long time to load, then it will add to the 
+	SteamVR load times.  Choosing one that SteamVR doesn't like will result in an empty grey room.  Or worse: use at your own risk!</br></p>
+	-------
+	</br></br>
+	<div class = "Top"><u>Building and Accessing your new Shortcut Pages</u></div>
+	<p>-Select the Tab that you want to create a page from.</br>
+	-Select the Games that you want on your page.  </br>
+	-Press the "Create Game Page" button in the lower right. </br>
+	-You can launch your game directly from SSLoader as well.</p>
+	
+	<p><li>If you are NOT running VR Toolbox:</li>
+	You can access your individual pages using the "Open GamePage" button in the lower right, or you click on "Open MainPage", which will open a Web Page
+	with links to all of your pages.  If you haven't created one of the pages yet, the link won't be active. </br>
+	Note that you will need to go into settings and "Create MainPage" if you move or delete the program folder.</br>
+	Note that you cannot launch an exe file from a browser window unless you are using VRToolbox.</br></br>
+	
+	-When you start your game from a browser on your desktop, a window should pop up asking you if you wish to launch the "Steam Client Bootstrapper". 
+	This is your browser asking for permission to launch your game: click "yes" and play!
+	This will launch your game.  If needed, SteamVR should launch along with it, however, to avoid common issues you should have SteamVR up and running 
+	<i>before</i> you launch a VR game.  Note that "SteamVR" will be an entry in your new GamePage as well as your games.</br></br>
+	
+	<li>If you ARE running VR Toolbox:</li>
+	The first thing that you need to do is to find VRToolbox in your Steam Library under "Software", then right click and click properties.  In the first tab "General", find the button labeled
+	 "Set Launch Options" and click it.  In the little window that pops up, type "-e" without the quotes.  This will activate VRToolbox's ability to launch programs from the internal browswer.  
+	 Click "Ok" and "Close" and we move on.</br> 
+	-Next, you need to make VRToolbox to be your SteamVR Home. You can change it back when you are done, but this tells the program to add the extra code that VRToolbox needs.  Keep in 
+	mind that, because of this, pages created while VRToolbox is the VRHome, will not work outside of VRToolbox.  You can have both, they won't overwrite each other.  Also, they're labeled so you'll
+	know the difference.  Go into Settings and choose VRToolbox from the dropdown list.  Once you've done that, create your pages as described above. </br>
+	-Once in VRToolbox, use the in-system menu to "Add a Screen" to see your new StartPage in VR.  This page will now contain links to all of the pages offered by SSLoader.  
+	The links to pages that you haven't created won't work, of course, but from here, everything will launch: VR games and experiences will close VRToolbox and switch to them. 
+	Other things like urls, movies or documents will launch in their own screens (most of them, anyway) in VR.  Those that Chrome can't render will appear in their own native apps on the desktop.
+	Most of these can then be "dragged out" into their own windows -see VRToolbox for directions.</br>
+	-To make best use your new pages, make sure that you use the in-game menus to customize the page size and set the background transparency to "Alpha".</br></br>
+		
+	<li>The "Singles" Page is for making "Object Shortcuts" to your games and is only useful if you're running VRToolbox.</br>
+	Click the "Create Singles Page" button in Settings. Don't forget to re-run it whenever you add new games.
+	This will create a page of all of your Apps that you can access from your StartPage.</br>
+	Each icon leads to another page that is exclusively that App. </br>
+	This page can then be resized and placed, then linked and locked to an object to give you individual "Object Shortcuts"	that you 
+	can resize and place on shelves, counters or wherever you want!  The popup tooltip(name) will have an impact on how you place it.  Click on it to launch your game!</br></li>
+	</p>
+	
+</div>
+
+<div class="Top"><p>Enjoy!  I hope that you find it useful!</p></div>
+<br>
+
+
+<ol class="Bugs">
+<h3 class="underline">Known bugs/issues:</h3>
+<div class="Main">
+<li>pdf files crash VRToolbox if your mouse moves over the menus. You can scroll.</br>This is a VRToolbox issue</li>
+
+<li>------</li>
+<li>Only tested at 1080i/p and 4k resolutions</li>
+<li>Only tested on Windows10</li>
+<li>Only tested on systems with a single Steam User</li>
+<li>Revive support is only for programs installed at the default Oculus Home directory</li>
+<li>------</li>
+<li>Upcoming:  Themes / Native Oculus support</li>
+</div>
+</ol>
+	
+
+</div>
+</body>
+</html>

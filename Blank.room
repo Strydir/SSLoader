@@ -1,0 +1,36 @@
+{
+ "TopContainer": {
+  "Screen0": {
+   "Capture": {
+    "ClassID": "CaptureDesktop",
+    "OutputIndex": 0
+   },
+   "ClassID": "Window",
+   "Settings": {
+    "CylRadius": 2.55000019073486,
+    "Flags": 1298,
+    "Stereo": 0,
+    "Transparency": 0
+   },
+   "WorldMatrix": [
+    0.998128831386566,
+    0.0,
+    -0.0611462481319904,
+    0.155922949314117,
+    0.0,
+    1,
+    0.0,
+    1.31126499176025,
+    0.0611462481319904,
+    0.0,
+    0.998128831386566,
+    -2.5452287197113,
+    0.0,
+    0.0,
+    0.0,
+    1
+   ]
+  }
+ },
+ "Version": 1
+}

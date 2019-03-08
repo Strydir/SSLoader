@@ -4,7 +4,7 @@ Load your Steam Games and Experiences, mp4's, doc's, pdf's (anything that your b
 Set your SteamVR Home to VRToolbox, Virtual Desktop, Bigscreen beta or pick your own!
 
 
-
+**Attention: Separators have been redone.  If you are updating, delete your old Separators before saving an edit or it will destroy your list!
 
 
 This is a simplified version of CogentRifter's Home Loader, found here:  https://github.com/CogentHub/HomeLoader.   With his permission, I have modified it for my needs.

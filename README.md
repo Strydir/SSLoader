@@ -1,5 +1,7 @@
 # Welcome to SSLoader  
 
+**** Latest version has a bug in Non-Steam Lists and maybe more. Working on it.
+
 **Attention: Separators have been redone.  If you are updating, delete your old Separators before saving an edit or it will destroy your list!
 
 Load your Steam Games and Experiences, mp4's, doc's, pdf's (anything that your browser can render), or non-Steam games and experiences into Lists and Webpages for use in WindowsMR, VRToolbox, Oculus(not tested but they should work) or Vive from your Desktop,  or just to organize them.  Using VRToolbox or WindowsMR, you can launch them from in VR, too!

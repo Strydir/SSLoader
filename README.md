@@ -1,6 +1,5 @@
 # Welcome to SSLoader  
 
-**** Latest version has a bug in Non-Steam Lists and maybe more. Working on it.
 
 **Attention: Separators have been redone.  If you are updating, delete your old Separators before saving an edit or it will destroy your list!
 

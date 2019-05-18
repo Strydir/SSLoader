@@ -73,3 +73,6 @@ If you are just updating the exe file, there are some new bmp files in the 'gfx'
 
 SKYMAPS for VRToolbox:
 For Skymaps, go to the "Skymaps" folder and download the zip files.  Unzip each file and place the dds files into the VRToolbox "Textures" directory.  They will then be available in game, under the drop down list in the "Settings" window.  If you decide to change the file name, VRToolbox requires the "_360" part of it.
+
+
+PM me at https://www.reddit.com/message/compose/?to=Stridyr if you have any issues or requests

@@ -1,6 +1,6 @@
 # Welcome to SSLoader  
 
-7/11/19 Added Bookshelves and Books for VRToolbox.  Work in progress.
+7/11/19 Added Bookshelves and Books for VRToolbox.  Work in progress.  To use, you will need VRToolbox (of course) and WordMaker for the alphabet. Link below.
 
 **Attention: Separators have been redone.  If you are updating, delete your old Separators before saving an edit or it will destroy your list!  -If you're using v8.9 or later, you're fine.
 

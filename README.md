@@ -6,13 +6,16 @@
 
 Load your Steam Games and Experiences, mp4's, doc's, pdf's (anything that your browser can render), or non-Steam games and experiences into Lists and Webpages for use in WindowsMR, VRToolbox, Oculus(not tested but they should work) or Vive from your Desktop,  or just to organize them.  Using VRToolbox or WindowsMR, you can launch them from in VR, too!
 
+You can sort your Lists by Name, AppId or Install Drive.  
+
+You can print your Lists by clicking the "Print Page" button.
+
 Set your SteamVR Home to VRToolbox, Virtual Desktop, Bigscreen beta or pick your own!
 
 
 
 
-
-This is a simplified version of CogentRifter's Home Loader, found here:  https://github.com/CogentHub/HomeLoader.   With his permission, I have modified it for my needs.
+This is based on an early version of CogentRifter's Home Loader, found here:  https://github.com/CogentHub/HomeLoader.   With his permission, I have modified it for my needs.
 
 I zipped the entire "SSLoader" folder so unzip it to your drive or folder of choice and simply run the SSLoader.exe file.  I suggest making a shortcut to the exe and placing it on your desktop.
 
@@ -53,10 +56,6 @@ To use this, make VRToolbox your SteamVR Home, as discussed above, then click th
 *NOTE* you need an alphabet for the book labels, so you will need my utility "WordMaker" in order to have the alphabet needed.  Get it here: https://github.com/Strydir/WordMaker/releases
 
 
-You can sort your Lists by Name, AppId or Install Drive.  
-
-You can print your Lists by clicking the "Print Page" button.
-
 
 I hope that you find some use in this little utility.  Let me know if there are any issues!
 
@@ -72,8 +71,6 @@ I hope that you find some use in this little utility.  Let me know if there are 
 1) Themes -postponed
 2) More Book Shelves
 3) animation, but it'll be a while
-
-
 
 
 ---------------------

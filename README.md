@@ -1,7 +1,8 @@
 # Welcome to SSLoader  
 
+7/11/19 Added Bookshelves and Books for VRToolbox.  Work in progress.
 
-**Attention: Separators have been redone.  If you are updating, delete your old Separators before saving an edit or it will destroy your list!
+**Attention: Separators have been redone.  If you are updating, delete your old Separators before saving an edit or it will destroy your list!  -If you're using v8.9 or later, you're fine.
 
 Load your Steam Games and Experiences, mp4's, doc's, pdf's (anything that your browser can render), or non-Steam games and experiences into Lists and Webpages for use in WindowsMR, VRToolbox, Oculus(not tested but they should work) or Vive from your Desktop,  or just to organize them.  Using VRToolbox or WindowsMR, you can launch them from in VR, too!
 
@@ -47,6 +48,11 @@ Once you click your game in the browser, a window may popup asking you if  you w
 
 For VRToolbox users, in the "Settings" page, you can use the "Create Singles Page" to create a page of all of your games.  These links will take you to a page that contains ONLY that game/experience.  Resize the page to only show that single icon, then, using the up/down thumbpad buttons, grow or shrink the icon/page to an appropriate size and link and lock it to an Object such as a picture frame or that little "Jetson's" TV.  Once it's locked, you can grow/shrink the object and the icon/shortcut will resize with it.  Place it where ever you'd like and click it to launch your game!  At the moment, "Object Shortcuts" are only usable in VRToolbox.  
 
+VRToolbox now has native support for making SteamVR shortcuts.  I've taken advantage of this to add shortcuts to different objects.  Latest is a Bookshelf with Books made from your Steam shortcuts.  Still a work in progress, but one Bookshelf is complete and I'm working on more.
+To use this, make VRToolbox your SteamVR Home, as discussed above, then click the 'Create Objects' button in the upper section. If you choose "BookCase2" then it will bring up a window allowing you to add your games as different books.  Keep adding books until you're happy, then click "Write" to write your new bookshelf and books to the "Objects.room".
+*NOTE* you need an alphabet for the book labels, so you will need my utility "WordMaker" in order to have the alphabet needed.  Get it here: https://github.com/Strydir/WordMaker/releases
+
+
 You can sort your Lists by Name, AppId or Install Drive.  
 
 You can print your Lists by clicking the "Print Page" button.
@@ -60,13 +66,14 @@ I hope that you find some use in this little utility.  Let me know if there are 
 2) Only tested on Windows10.
 3) Only tested at 1080i/p and 4k resolutions.
 4) PDF files can crash VRToolbox
-5) Version number shown is wrong. Has no impact on the program.
+5) While 'native' Oculus support has been added, it has not been tested.
 
 -- Working on:
-1) Themes
-2) Native Oculus support
+1) Themes -postponed
+2) More Book Shelves
+3) animation, but it'll be a while
 
-If you are just updating the exe file, there are some new bmp files in the 'gfx' folder and the file 'steam.app.--------.bmp' needs to be placed in your \icons\32x32 folder.
+
 
 
 ---------------------

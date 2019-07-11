@@ -80,3 +80,4 @@ For Skymaps, go to the "Skymaps" folder and download the zip files.  Unzip each 
 
 
 PM me at https://www.reddit.com/message/compose/?to=Stridyr if you have any issues or requests
+If you're having issues with VRToolbox functions, post on the Discussion page: https://steamcommunity.com/app/488040/discussions/

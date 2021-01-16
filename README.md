@@ -1,5 +1,7 @@
 # Welcome to SSLoader  
 1/16/21 added modified "perpropmenu.json" file to reorganize pie menu.
+Note:  Steamdb modified how they do things so the shortcuts with extra Steam info do not work.  I'll be re-making this soon as I've also found a few bugs.
+I added a Controller configuration for Index controllers. Download it thru the steam controller interface.  It's not perfect but it works a lot better than the default.
 
 7/11/19 Added Bookshelves and Books for VRToolbox.  Work in progress.  To use, you will need VRToolbox (of course) and WordMaker for the alphabet. Link below.
 
